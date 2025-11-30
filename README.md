@@ -76,7 +76,9 @@ Clicking on an animal opens:
 
 _A full project walkthrough video is included in this repository._
 
-(Your embedded video link will go here after uploading.)
+## 🎥 Project Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/ABC123XYZ/hqdefault.jpg)]https://youtu.be/dGtDJbhKGV8
 
 ---
 
