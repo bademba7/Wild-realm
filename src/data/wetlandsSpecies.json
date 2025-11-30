@@ -1,0 +1,351 @@
+{
+  "biome": "Wetlands",
+  "center": {
+    "lat": 25.8584,
+    "lng": -80.8773
+  },
+  "zoom": 10,
+  "species": [
+    {
+      "id": 2,
+      "name": "Great Blue Heron",
+      "scientificName": "Ardea herodias",
+      "position": { "lat": 30.7200, "lng": -82.4500 },
+      "population": "Unknown - Stable",
+      "status": "Least Concern",
+      "description": "Large wading birds with impressive wingspans up to 6.6 feet. Patient hunters that stand still for long periods waiting for fish. Known for their distinctive S-shaped neck.",
+      "diet": "Carnivore - fish, frogs, small mammals, insects",
+      "habitat": "Shallow wetlands, lake edges, rivers",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Great_Blue_Heron_001.jpg/800px-Great_Blue_Heron_001.jpg",
+      "threats": "Water pollution, habitat degradation"
+    },
+    {
+      "id": 3,
+      "name": "River Otter",
+      "scientificName": "Lontra canadensis",
+      "position": { "lat": 30.5800, "lng": -82.2900 },
+      "population": "Unknown - Recovering",
+      "status": "Least Concern",
+      "description": "Playful semi-aquatic mammals known for their swimming ability and social behavior. They have dense fur with up to 1 million hairs per square inch for insulation in cold water.",
+      "diet": "Carnivore - fish, crayfish, frogs, small mammals",
+      "habitat": "Rivers, lakes, marshes with good water quality",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lontra_canadensis_in_Seedskadee_National_Wildlife_Refuge_%2827826185489%29.jpg/800px-Lontra_canadensis_in_Seedskadee_National_Wildlife_Refuge_%2827826185489%29.jpg",
+      "threats": "Water pollution, habitat loss, historic fur trade"
+    },
+    {
+      "id": 4,
+      "name": "Wood Duck",
+      "scientificName": "Aix sponsa",
+      "position": { "lat": 30.6900, "lng": -82.3800 },
+      "population": "Unknown - Stable",
+      "status": "Least Concern",
+      "description": "One of the most colorful North American waterfowl. Males have iridescent plumage with distinctive patterns. They nest in tree cavities near water, unlike most ducks.",
+      "diet": "Omnivore - acorns, seeds, aquatic insects, berries",
+      "habitat": "Wooded swamps, marshes with trees",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Wood_Duck_%28Aix_sponsa%29_male_swimming_in_water.jpg/800px-Wood_Duck_%28Aix_sponsa%29_male_swimming_in_water.jpg",
+      "threats": "Habitat loss, hunting pressure (historically)"
+    },
+    {
+      "id": 5,
+      "name": "Snapping Turtle",
+      "scientificName": "Chelydra serpentina",
+      "position": { "lat": 30.6000, "lng": -82.4200 },
+      "population": "Unknown - Declining in some areas",
+      "status": "Least Concern",
+      "description": "Large freshwater turtles with powerful jaws. Can live over 100 years. Known for their prehistoric appearance and aggressive defense when out of water.",
+      "diet": "Omnivore - fish, frogs, plants, carrion",
+      "habitat": "Shallow ponds, marshes, muddy bottoms",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Common_Snapping_Turtle_Close_Up.jpg/800px-Common_Snapping_Turtle_Close_Up.jpg",
+      "threats": "Road mortality, habitat loss, collection for food"
+    },
+    {
+      "id": 6,
+      "name": "Beaver",
+      "scientificName": "Castor canadensis",
+      "position": { "lat": 30.7100, "lng": -82.2700 },
+      "population": "6-12 million estimated",
+      "status": "Least Concern",
+      "description": "Nature's engineers that build dams and lodges. Their dam-building creates wetland habitat for many other species. Have orange teeth strengthened with iron.",
+      "diet": "Herbivore - tree bark, aquatic plants, leaves",
+      "habitat": "Rivers, streams, ponds with trees",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/800px-American_Beaver.jpg",
+      "threats": "Historic fur trade, habitat loss, human conflicts"
+    },
+    {
+      "id": 7,
+      "name": "Marsh Rabbit",
+      "scientificName": "Sylvilagus palustris",
+      "position": { "lat": 30.6300, "lng": -82.3600 },
+      "population": "Unknown",
+      "status": "Least Concern",
+      "description": "Small rabbits specially adapted to wetland life. Unlike other rabbits, they are good swimmers and often enter water to escape predators. Have shorter ears than typical rabbits.",
+      "diet": "Herbivore - grasses, marsh plants, cattails",
+      "habitat": "Freshwater and brackish marshes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marsh_Rabbit.jpg/800px-Marsh_Rabbit.jpg",
+      "threats": "Habitat loss, sea level rise, predation"
+    },
+    {
+      "id": 8,
+      "name": "Bullfrog",
+      "scientificName": "Lithobates catesbeianus",
+      "position": { "lat": 30.6700, "lng": -82.3100 },
+      "population": "Unknown - Common",
+      "status": "Least Concern",
+      "description": "North America's largest frog, with males reaching 8 inches. Their deep call sounds like 'jug-o-rum' and can be heard up to half a mile away. Voracious predators.",
+      "diet": "Carnivore - insects, fish, snakes, small birds",
+      "habitat": "Ponds, lakes, slow-moving rivers",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/American_bullfrog_%28Lithobates_catesbeianus%29_male.jpg/800px-American_bullfrog_%28Lithobates_catesbeianus%29_male.jpg",
+      "threats": "Invasive in some regions, disease, pollution"
+    },
+    {
+      "id": 9,
+      "name": "Belted Kingfisher",
+      "scientificName": "Megaceryle alcyon",
+      "position": { "lat": 30.5900, "lng": -82.3900 },
+      "population": "Unknown - Stable",
+      "status": "Least Concern",
+      "description": "Medium-sized birds with large heads and shaggy crests. Dive headfirst into water to catch fish. One of the few bird species where females are more colorful than males.",
+      "diet": "Carnivore - small fish, crayfish, insects",
+      "habitat": "Near water with exposed banks for nesting",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Belted_Kingfisher_%28female%29_%2813891985903%29.jpg/800px-Belted_Kingfisher_%28female%29_%2813891985903%29.jpg",
+      "threats": "Bank erosion, water pollution"
+    },
+    {
+      "id": 10,
+      "name": "Muskrat",
+      "scientificName": "Ondatra zibethicus",
+      "position": { "lat": 30.6400, "lng": -82.2600 },
+      "population": "Unknown - Common",
+      "status": "Least Concern",
+      "description": "Semi-aquatic rodents that build houses from vegetation. Important prey species for many wetland predators. Have partially webbed feet and can swim underwater for up to 15 minutes.",
+      "diet": "Herbivore - cattails, water lilies, aquatic plants",
+      "habitat": "Marshes, ponds with emergent vegetation",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ondatra_zibethicus_FWS.jpg/800px-Ondatra_zibethicus_FWS.jpg",
+      "threats": "Habitat loss, trapping, water pollution"
+    },
+    {
+      "id": 116461,
+      "name": "Brown Anole",
+      "scientificName": "Anolis sagrei",
+      "position": {
+        "lat": 25.8388,
+        "lng": -80.6434
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/22869683/medium.jpg",
+      "status": "Least Concern",
+      "population": "24168 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 35342,
+      "name": "Green Iguana",
+      "scientificName": "Iguana iguana",
+      "position": {
+        "lat": 26.1106,
+        "lng": -80.4887
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/356025444/medium.jpg",
+      "status": "Least Concern",
+      "population": "13238 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 26159,
+      "name": "American Alligator",
+      "scientificName": "Alligator mississippiensis",
+      "position": {
+        "lat": 25.0544,
+        "lng": -80.2627
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/343508251/medium.jpg",
+      "status": "Least Concern",
+      "population": "11475 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 39280,
+      "name": "Northern Curly-tailed Lizard",
+      "scientificName": "Leiocephalus carinatus",
+      "position": {
+        "lat": 26.4115,
+        "lng": -80.9367
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3996371/medium.JPG",
+      "status": "Least Concern",
+      "population": "8383 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 3751,
+      "name": "White Ibis",
+      "scientificName": "Eudocimus albus",
+      "position": {
+        "lat": 25.8903,
+        "lng": -80.6206
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13109245/medium.jpg",
+      "status": "Least Concern",
+      "population": "8306 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 7120,
+      "name": "Muscovy Duck",
+      "scientificName": "Cairina moschata",
+      "position": {
+        "lat": 25.5294,
+        "lng": -80.5152
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54389963/medium.jpg",
+      "status": "Least Concern",
+      "population": "7373 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 5063,
+      "name": "Anhinga",
+      "scientificName": "Anhinga anhinga",
+      "position": {
+        "lat": 26.4505,
+        "lng": -81.4967
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/63228328/medium.jpg",
+      "status": "Least Concern",
+      "population": "6941 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 797597,
+      "name": "Peters's Rock Agama",
+      "scientificName": "Agama picticauda",
+      "position": {
+        "lat": 25.389,
+        "lng": -81.015
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/19577715/medium.jpg",
+      "status": "Least Concern",
+      "population": "6847 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 36514,
+      "name": "Green Anole",
+      "scientificName": "Anolis carolinensis",
+      "position": {
+        "lat": 26.4428,
+        "lng": -80.1877
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/2626904/medium.jpg",
+      "status": "Least Concern",
+      "population": "6241 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 9601,
+      "name": "Boat-tailed Grackle",
+      "scientificName": "Quiscalus major",
+      "position": {
+        "lat": 25.399,
+        "lng": -80.608
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/109766112/medium.jpeg",
+      "status": "Least Concern",
+      "population": "6150 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 14886,
+      "name": "Northern Mockingbird",
+      "scientificName": "Mimus polyglottos",
+      "position": {
+        "lat": 25.6174,
+        "lng": -80.9341
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/142697277/medium.jpg",
+      "status": "Least Concern",
+      "population": "5724 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 144455,
+      "name": "Great Egret",
+      "scientificName": "Ardea alba",
+      "position": {
+        "lat": 25.3087,
+        "lng": -81.1932
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/56653891/medium.jpg",
+      "status": "Least Concern",
+      "population": "5566 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 5020,
+      "name": "Green Heron",
+      "scientificName": "Butorides virescens",
+      "position": {
+        "lat": 26.433,
+        "lng": -81.3367
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/182999416/medium.jpg",
+      "status": "Least Concern",
+      "population": "5307 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 36488,
+      "name": "Crested Anole",
+      "scientificName": "Anolis cristatellus",
+      "position": {
+        "lat": 26.3754,
+        "lng": -80.1701
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/37728705/medium.jpg",
+      "status": "Least Concern",
+      "population": "5213 observations on iNaturalist",
+      "description": "A species found in the wetlands.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Wetlands",
+      "threats": "Habitat loss, climate change"
+    }
+  ]
+}

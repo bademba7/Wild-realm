@@ -1,0 +1,138 @@
+{
+  "biome": "Ocean",
+  "center": {
+    "lat": -8.7832,
+    "lng": 115.1668
+  },
+  "zoom": 9,
+  "species": [
+    {
+      "id": 136345,
+      "name": "Clark's Anemonefish",
+      "scientificName": "Amphiprion clarkii",
+      "position": {
+        "lat": -6.304,
+        "lng": 117.5831
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233182847/medium.jpg",
+      "status": "Least Concern",
+      "population": "760 observations on iNaturalist",
+      "description": "A species found in the ocean.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Ocean",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 83290,
+      "name": "Moorish Idol",
+      "scientificName": "Zanclus cornutus",
+      "position": {
+        "lat": -6.9193,
+        "lng": 112.9589
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/3080425/medium.jpg",
+      "status": "Least Concern",
+      "population": "739 observations on iNaturalist",
+      "description": "A species found in the ocean.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Ocean",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 119385,
+      "name": "Blackspotted Puffer",
+      "scientificName": "Arothron nigropunctatus",
+      "position": {
+        "lat": -7.32,
+        "lng": 111.9122
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/13138055/medium.jpg",
+      "status": "Least Concern",
+      "population": "668 observations on iNaturalist",
+      "description": "A species found in the ocean.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Ocean",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 47239,
+      "name": "Pacific Trumpetfish",
+      "scientificName": "Aulostomus chinensis",
+      "position": {
+        "lat": -4.5226,
+        "lng": 115.3271
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/61754806/medium.jpg",
+      "status": "Least Concern",
+      "population": "653 observations on iNaturalist",
+      "description": "A species found in the ocean.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Ocean",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 132688,
+      "name": "Ocellaris Anemonefish",
+      "scientificName": "Amphiprion ocellaris",
+      "position": {
+        "lat": 2.9651,
+        "lng": 112.6444
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/106318566/medium.jpg",
+      "status": "Least Concern",
+      "population": "597 observations on iNaturalist",
+      "description": "A species found in the ocean.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Ocean",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 97167,
+      "name": "Blacklip Butterflyfish",
+      "scientificName": "Chaetodon kleinii",
+      "position": {
+        "lat": 0.8429,
+        "lng": 111.2138
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/233628218/medium.jpg",
+      "status": "Least Concern",
+      "population": "559 observations on iNaturalist",
+      "description": "A species found in the ocean.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Ocean",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 121375,
+      "name": "Leaf Scorpionfish",
+      "scientificName": "Taenianotus triacanthus",
+      "position": {
+        "lat": 1.554,
+        "lng": 118.9859
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/29368070/medium.jpg",
+      "status": "Least Concern",
+      "population": "557 observations on iNaturalist",
+      "description": "A species found in the ocean.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Ocean",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 49303,
+      "name": "Three-spot Dascyllus",
+      "scientificName": "Dascyllus trimaculatus",
+      "position": {
+        "lat": -1.9082,
+        "lng": 116.5041
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/207083638/medium.jpg",
+      "status": "Least Concern",
+      "population": "476 observations on iNaturalist",
+      "description": "A species found in the ocean.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Ocean",
+      "threats": "Habitat loss, climate change"
+    }
+  ]
+}

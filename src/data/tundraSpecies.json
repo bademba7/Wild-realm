@@ -1,0 +1,289 @@
+{
+  "biome": "Tundra",
+  "center": {
+    "lat": 68.3587,
+    "lng": -133.7469
+  },
+  "zoom": 8,
+  "species": [
+    {
+      "id": 1,
+      "name": "Polar Bear",
+      "scientificName": "Ursus maritimus",
+      "status": "Endangered",
+      "description": "The top predators of the arctic and tundra biomes, relying on sea ice to hunt and travel long distances. They are powerful swimmers in the freezing waters of tundras.",
+      "diet": "Carnivore",
+      "habitat": "Arctic Sea Ice and Coastal Tundra Regions",
+      "population": "Around 26,000 - Decreasing",
+      "position": {"lat": 74.6973, "lng": -94.8315},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Polar_Bear_-_Alaska_%28cropped%29.jpg/500px-Polar_Bear_-_Alaska_%28cropped%29.jpg",
+      "threats": "Climate change, sea ice loss"
+    },
+    {
+      "id": 2,
+      "name": "Snow Leopard",
+      "scientificName": "Panthera uncia",
+      "status": "Endangered",
+      "description": "Referred to as the Ghost of the Mountains, snow leopards inhabit the cold and rocky regions of tundras. Their thick furs and long tails help them survive in the freezing frigid tundra landscapes.",
+      "diet": "Carnivore",
+      "habitat": "High-Altitude Tundra Mountains",
+      "population": "Around 4,000-6,000 - Decreasing",
+      "position": {"lat": 73.5, "lng": -95.0},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/500px-Irbis4.JPG",
+      "threats": "Poaching, habitat loss, prey decline"
+    },
+    {
+      "id": 3,
+      "name": "Ringed Seal",
+      "scientificName": "Pusa hispida",
+      "status": "Least Concern",
+      "description": "Small arctic animals that create breathing holes in the sea of ice. They are the primary prey of polar bears and primary indicators for the current health of the arctic ecosystems.",
+      "diet": "Carnivore",
+      "habitat": "Arctic and Tundra Coastal Iced Waters",
+      "population": "Widespread and Stable",
+      "position": {"lat": 74.8, "lng": -94.9},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pusa_hispida_hispida_NOAA_1.jpg/500px-Pusa_hispida_hispida_NOAA_1.jpg",
+      "threats": "Climate change, sea ice reduction"
+    },
+    {
+      "id": 42199,
+      "name": "Caribou",
+      "scientificName": "Rangifer tarandus",
+      "position": {
+        "lat": 72.9845,
+        "lng": -138.2063
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/86057375/medium.jpg",
+      "status": "vulnerable",
+      "population": "255 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 4349,
+      "name": "Glaucous Gull",
+      "scientificName": "Larus hyperboreus",
+      "position": {
+        "lat": 73.0186,
+        "lng": -106.3512
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8050013/medium.jpg",
+      "status": "Least Concern",
+      "population": "220 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 116840,
+      "name": "Lapland Longspur",
+      "scientificName": "Calcarius lapponicus",
+      "position": {
+        "lat": 73.7431,
+        "lng": -101.4163
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/96675637/medium.jpg",
+      "status": "Least Concern",
+      "population": "204 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 931,
+      "name": "Willow Ptarmigan",
+      "scientificName": "Lagopus lagopus",
+      "position": {
+        "lat": 73.3167,
+        "lng": -137.239
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/135224645/medium.jpg",
+      "status": "Least Concern",
+      "population": "189 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 42412,
+      "name": "Muskox",
+      "scientificName": "Ovibos moschatus",
+      "position": {
+        "lat": 66.4553,
+        "lng": -107.3091
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/348194143/medium.jpg",
+      "status": "Least Concern",
+      "population": "166 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 117059,
+      "name": "Snow Bunting",
+      "scientificName": "Plectrophenax nivalis",
+      "position": {
+        "lat": 68.1331,
+        "lng": -133.0806
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/113763306/medium.jpeg",
+      "status": "Least Concern",
+      "population": "164 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 41641,
+      "name": "Brown Bear",
+      "scientificName": "Ursus arctos",
+      "position": {
+        "lat": 66.5277,
+        "lng": -118.0864
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1491897/medium.jpg",
+      "status": "Least Concern",
+      "population": "162 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 7024,
+      "name": "Common Eider",
+      "scientificName": "Somateria mollissima",
+      "position": {
+        "lat": 69.7415,
+        "lng": -120.7384
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/101350509/medium.jpeg",
+      "status": "near threatened",
+      "population": "152 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 4817,
+      "name": "Semipalmated Plover",
+      "scientificName": "Charadrius semipalmatus",
+      "position": {
+        "lat": 74.3527,
+        "lng": -124.9511
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/19719958/medium.jpg",
+      "status": "Least Concern",
+      "population": "119 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 508048,
+      "name": "Sandhill Crane",
+      "scientificName": "Antigone canadensis",
+      "position": {
+        "lat": 65.8437,
+        "lng": -102.4527
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/269274277/medium.jpg",
+      "status": "Least Concern",
+      "population": "117 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 8010,
+      "name": "Common Raven",
+      "scientificName": "Corvus corax",
+      "position": {
+        "lat": 66.1677,
+        "lng": -123.1582
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/54389687/medium.jpg",
+      "status": "Least Concern",
+      "population": "116 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 180001,
+      "name": "Arctic Ground Squirrel",
+      "scientificName": "Urocitellus parryii",
+      "position": {
+        "lat": 67.1642,
+        "lng": -127.9065
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129691668/medium.jpeg",
+      "status": "Least Concern",
+      "population": "104 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 42069,
+      "name": "Red Fox",
+      "scientificName": "Vulpes vulpes",
+      "position": {
+        "lat": 67.774,
+        "lng": -119.8396
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/265916780/medium.jpg",
+      "status": "Least Concern",
+      "population": "94 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 43126,
+      "name": "Arctic Hare",
+      "scientificName": "Lepus arcticus",
+      "position": {
+        "lat": 67.6033,
+        "lng": -123.1967
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/30835097/medium.jpg",
+      "status": "Least Concern",
+      "population": "72 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 233598,
+      "name": "Arctic Fox",
+      "scientificName": "Vulpes lagopus",
+      "position": {
+        "lat": 74.0751,
+        "lng": -139.5859
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64217530/medium.jpg",
+      "status": "Least Concern",
+      "population": "70 observations on iNaturalist",
+      "description": "A species found in the tundra.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Tundra",
+      "threats": "Habitat loss, climate change"
+    }
+  ]
+}

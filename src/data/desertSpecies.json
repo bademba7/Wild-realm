@@ -1,0 +1,289 @@
+{
+  "biome": "Desert",
+  "center": {
+    "lat": 31.0522,
+    "lng": -7.9898
+  },
+  "zoom": 9,
+  "species": [
+    {
+      "id": 1,
+      "name": "Sidewinder Rattlesnake",
+      "scientificName": "Crotalus cerastes",
+      "status": "Least Concern",
+      "description": "A venomous snake that moves a sideway distinct motion in the hot sands of Death Valley, hunting at night to avoid extreme heat.",
+      "diet": "Carnivore",
+      "habitat": "Sandy Dunes and Rocky Desert Flats",
+      "population": "Stable",
+      "position": {"lat": 36.5054, "lng": -117.0794},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/500px-Crotalus_cerastes_mesquite_springs_CA-2.jpg",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 2,
+      "name": "Fennec Fox",
+      "scientificName": "Vulpes zerda",
+      "status": "Least Concern",
+      "description": "The smallest fox species in the world and is known for their enormous ears that helps them radiate heat and detect prey beneath the sands",
+      "diet": "Omnivore",
+      "habitat": "Sandy Deserts",
+      "population": "Stable",
+      "position": {"lat": 36.45, "lng": -116.87},
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fennec_Fox_Vulpes_zerda.jpg/500px-Fennec_Fox_Vulpes_zerda.jpg",
+      "threats": "Habitat loss, pet trade"
+    },
+    {
+      "id": 3,
+      "name": "Coyote",
+      "scientificName": "Canis latrans",
+      "status": "Least Concern",
+      "description": "Adaptable predators of the deserts thanks to their intelligence, agility, and distinctive howls. Coyotes are thriving across North American habitats",
+      "diet": "Omnivore",
+      "habitat": "Open Desert Lands, Grasslands, and Scrublands",
+      "population": "Stable",
+      "position": {"lat": 36.45, "lng": -116.9},
+      "imageUrl": "https://www.nps.gov/deva/learn/nature/images/Coyote-by-Neal_BIR3705-Print.jpg?maxwidth=650&autorotate=false&quality=78&format=webp",
+      "threats": "Habitat loss, human conflict"
+    },
+    {
+      "id": 40023,
+      "name": "Greek Tortoise",
+      "scientificName": "Testudo graeca",
+      "position": {
+        "lat": 25.1325,
+        "lng": -0.1439
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1843615/medium.jpg",
+      "status": "vulnerable",
+      "population": "633 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 43452,
+      "name": "Barbary Macaque",
+      "scientificName": "Macaca sylvanus",
+      "position": {
+        "lat": 27.3541,
+        "lng": 5.3758
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/159672964/medium.jpeg",
+      "status": "endangered",
+      "population": "594 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 1367368,
+      "name": "Bibron's Agama",
+      "scientificName": "Agama bibronii",
+      "position": {
+        "lat": 23.4055,
+        "lng": -3.8845
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/44917389/medium.jpg",
+      "status": "Least Concern",
+      "population": "547 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 33602,
+      "name": "Moorish Gecko",
+      "scientificName": "Tarentola mauritanica",
+      "position": {
+        "lat": 20.0619,
+        "lng": 8.0686
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/122821734/medium.jpg",
+      "status": "Least Concern",
+      "population": "487 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 39976,
+      "name": "Mediterranean Turtle",
+      "scientificName": "Mauremys leprosa",
+      "position": {
+        "lat": 26.9367,
+        "lng": 1.1805
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/383157297/medium.jpg",
+      "status": "Least Concern",
+      "population": "439 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 46241,
+      "name": "Barbary Ground Squirrel",
+      "scientificName": "Atlantoxerus getulus",
+      "position": {
+        "lat": 27.5879,
+        "lng": 0.1874
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/46243313/medium.jpeg",
+      "status": "Least Concern",
+      "population": "381 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 114808,
+      "name": "Moroccan Spiny-tailed Lizard",
+      "scientificName": "Uromastyx nigriventris",
+      "position": {
+        "lat": 25.6902,
+        "lng": -2.1468
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/5230254/medium.jpg",
+      "status": "Least Concern",
+      "population": "298 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 35437,
+      "name": "Bosc's Fringe-toed lizard",
+      "scientificName": "Acanthodactylus boskianus",
+      "position": {
+        "lat": 34.7306,
+        "lng": 10.3686
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1535176/medium.JPG",
+      "status": "Least Concern",
+      "population": "280 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 81542,
+      "name": "Dromedary Camel",
+      "scientificName": "Camelus dromedarius",
+      "position": {
+        "lat": 32.4074,
+        "lng": 3.0399
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/254331474/medium.jpg",
+      "status": "Least Concern",
+      "population": "207 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 33869,
+      "name": "Atlas Day Gecko",
+      "scientificName": "Quedenfeldtia trachyblepharus",
+      "position": {
+        "lat": 26.7197,
+        "lng": 9.1558
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/1530932/medium.JPG",
+      "status": "near threatened",
+      "population": "203 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 118552,
+      "name": "Domestic Cat",
+      "scientificName": "Felis catus",
+      "position": {
+        "lat": 23.5689,
+        "lng": 14.8888
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/129658776/medium.jpg",
+      "status": "Least Concern",
+      "population": "198 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 73921,
+      "name": "Andalusian wall lizard",
+      "scientificName": "Podarcis vaucheri",
+      "position": {
+        "lat": 21.1803,
+        "lng": 10.552
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/64617918/medium.jpg",
+      "status": "Least Concern",
+      "population": "191 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 47144,
+      "name": "Domestic Dog",
+      "scientificName": "Canis familiaris",
+      "position": {
+        "lat": 21.7463,
+        "lng": 14.836
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/307568930/medium.jpg",
+      "status": "Least Concern",
+      "population": "92 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 43059,
+      "name": "North African Hedgehog",
+      "scientificName": "Atelerix algirus",
+      "position": {
+        "lat": 22.0132,
+        "lng": 5.462
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/516282/medium.jpg",
+      "status": "Least Concern",
+      "population": "88 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 43086,
+      "name": "Rock Hyrax",
+      "scientificName": "Procavia capensis",
+      "position": {
+        "lat": 33.5097,
+        "lng": -7.0608
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/131657139/medium.jpeg",
+      "status": "Least Concern",
+      "population": "83 observations on iNaturalist",
+      "description": "A species found in the desert.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Desert",
+      "threats": "Habitat loss, climate change"
+    }
+  ]
+}

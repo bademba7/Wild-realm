@@ -1,0 +1,250 @@
+{
+  "biome": "Savannah",
+  "center": {
+    "lat": -2.154,
+    "lng": 34.6857
+  },
+  "zoom": 10,
+  "species": [
+    {
+      "id": 43694,
+      "name": "African Savanna Elephant",
+      "scientificName": "Loxodonta africana",
+      "position": {
+        "lat": 3.843,
+        "lng": 33.9115
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/93674728/medium.jpg",
+      "status": "endangered",
+      "population": "6343 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 41964,
+      "name": "Lion",
+      "scientificName": "Panthera leo",
+      "position": {
+        "lat": -3.7899,
+        "lng": 38.305
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/9225318/medium.jpg",
+      "status": "vulnerable",
+      "population": "6171 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 43335,
+      "name": "Plains Zebra",
+      "scientificName": "Equus quagga",
+      "position": {
+        "lat": 4.9242,
+        "lng": 37.9275
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/335469754/medium.jpg",
+      "status": "near threatened",
+      "population": "5812 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 1510574,
+      "name": "Maasai Giraffe",
+      "scientificName": "Giraffa tippelskirchi",
+      "position": {
+        "lat": -1.1528,
+        "lng": 39.8642
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/102235423/medium.jpg",
+      "status": "Least Concern",
+      "population": "4764 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 42405,
+      "name": "African Buffalo",
+      "scientificName": "Syncerus caffer",
+      "position": {
+        "lat": 1.6408,
+        "lng": 34.9999
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/97834194/medium.jpg",
+      "status": "near threatened",
+      "population": "4060 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 42278,
+      "name": "Impala",
+      "scientificName": "Aepyceros melampus",
+      "position": {
+        "lat": 4.577,
+        "lng": 32.0652
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/64268875/medium.jpg",
+      "status": "Least Concern",
+      "population": "3953 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 74832,
+      "name": "Olive Baboon",
+      "scientificName": "Papio anubis",
+      "position": {
+        "lat": -3.4748,
+        "lng": 38.8053
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/358065075/medium.jpg",
+      "status": "Least Concern",
+      "population": "3928 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 42149,
+      "name": "Common Hippopotamus",
+      "scientificName": "Hippopotamus amphibius",
+      "position": {
+        "lat": -3.0045,
+        "lng": 38.2786
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/13896177/medium.jpg",
+      "status": "vulnerable",
+      "population": "3894 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 14939,
+      "name": "Superb Starling",
+      "scientificName": "Lamprotornis superbus",
+      "position": {
+        "lat": -0.2534,
+        "lng": 32.8783
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/329009302/medium.jpg",
+      "status": "Least Concern",
+      "population": "2908 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 201031,
+      "name": "Marabou Stork",
+      "scientificName": "Leptoptilos crumenifer",
+      "position": {
+        "lat": 3.235,
+        "lng": 33.3255
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/48113837/medium.jpg",
+      "status": "Least Concern",
+      "population": "2695 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 20526,
+      "name": "Common Ostrich",
+      "scientificName": "Struthio camelus",
+      "position": {
+        "lat": -1.2426,
+        "lng": 33.785
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/2568822/medium.jpg",
+      "status": "Least Concern",
+      "population": "2489 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 53,
+      "name": "Gray Crowned-Crane",
+      "scientificName": "Balearica regulorum",
+      "position": {
+        "lat": 2.474,
+        "lng": 34.7824
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/130851539/medium.jpg",
+      "status": "endangered",
+      "population": "2355 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 72486,
+      "name": "Egyptian Goose",
+      "scientificName": "Alopochen aegyptiaca",
+      "position": {
+        "lat": 0.7266,
+        "lng": 34.6762
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/130517490/medium.jpeg",
+      "status": "Least Concern",
+      "population": "2200 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 2269,
+      "name": "Lilac-breasted Roller",
+      "scientificName": "Coracias caudatus",
+      "position": {
+        "lat": -3.113,
+        "lng": 33.7614
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/8050/medium.jpg",
+      "status": "Least Concern",
+      "population": "2056 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 1505670,
+      "name": "African Fish-Eagle",
+      "scientificName": "Icthyophaga vocifer",
+      "position": {
+        "lat": 1.1385,
+        "lng": 35.8052
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/339871833/medium.jpg",
+      "status": "Least Concern",
+      "population": "1962 observations on iNaturalist",
+      "description": "A species found in the savannah.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Savannah",
+      "threats": "Habitat loss, climate change"
+    }
+  ]
+}

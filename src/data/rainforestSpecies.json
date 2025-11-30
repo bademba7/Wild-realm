@@ -1,0 +1,250 @@
+{
+  "biome": "Rainforest",
+  "center": {
+    "lat": -3.4653,
+    "lng": -62.2159
+  },
+  "zoom": 10,
+  "species": [
+    {
+      "id": 16787,
+      "name": "Tropical Kingbird",
+      "scientificName": "Tyrannus melancholicus",
+      "position": {
+        "lat": 2.4339,
+        "lng": -64.4288
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/254986834/medium.jpg",
+      "status": "Least Concern",
+      "population": "3328 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 12781,
+      "name": "Great Thrush",
+      "scientificName": "Turdus fuscater",
+      "position": {
+        "lat": -6.2392,
+        "lng": -72.6409
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/83410312/medium.jpeg",
+      "status": "Least Concern",
+      "population": "3291 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 9183,
+      "name": "Rufous-collared Sparrow",
+      "scientificName": "Zonotrichia capensis",
+      "position": {
+        "lat": 2.6198,
+        "lng": -69.6747
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/112061150/medium.jpeg",
+      "status": "Least Concern",
+      "population": "2861 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 3439,
+      "name": "Eared Dove",
+      "scientificName": "Zenaida auriculata",
+      "position": {
+        "lat": -1.9749,
+        "lng": -57.567
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/85633474/medium.jpeg",
+      "status": "Least Concern",
+      "population": "2820 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 4765,
+      "name": "Black Vulture",
+      "scientificName": "Coragyps atratus",
+      "position": {
+        "lat": 0.4907,
+        "lng": -53.4673
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/14689662/medium.jpg",
+      "status": "Least Concern",
+      "population": "2417 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 10295,
+      "name": "Blue-gray Tanager",
+      "scientificName": "Thraupis episcopus",
+      "position": {
+        "lat": -7.3194,
+        "lng": -66.3372
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/177459123/medium.jpg",
+      "status": "Least Concern",
+      "population": "2137 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 4867,
+      "name": "Southern Lapwing",
+      "scientificName": "Vanellus chilensis",
+      "position": {
+        "lat": 4.0337,
+        "lng": -63.324
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/261192086/medium.jpg",
+      "status": "Least Concern",
+      "population": "2132 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 144455,
+      "name": "Great Egret",
+      "scientificName": "Ardea alba",
+      "position": {
+        "lat": 3.3908,
+        "lng": -60.8403
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/56653891/medium.jpg",
+      "status": "Least Concern",
+      "population": "1909 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 35342,
+      "name": "Green Iguana",
+      "scientificName": "Iguana iguana",
+      "position": {
+        "lat": 2.1098,
+        "lng": -62.4522
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/356025444/medium.jpg",
+      "status": "Least Concern",
+      "population": "1693 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 553515,
+      "name": "Cane Toad",
+      "scientificName": "Rhinella marina",
+      "position": {
+        "lat": -2.6925,
+        "lng": -62.8238
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/28767824/medium.jpg",
+      "status": "Least Concern",
+      "population": "1663 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 116517,
+      "name": "Spectacled Caiman",
+      "scientificName": "Caiman crocodilus",
+      "position": {
+        "lat": 4.2848,
+        "lng": -64.4095
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/185182912/medium.jpeg",
+      "status": "Least Concern",
+      "population": "1177 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 27919,
+      "name": "Thickhead Ground Snake",
+      "scientificName": "Atractus crassicaudatus",
+      "position": {
+        "lat": 3.6128,
+        "lng": -63.8274
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/215474301/medium.jpeg",
+      "status": "Least Concern",
+      "population": "1171 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 38913,
+      "name": "Giant Ameiva",
+      "scientificName": "Ameiva ameiva",
+      "position": {
+        "lat": -8.3917,
+        "lng": -70.839
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/60558340/medium.jpg",
+      "status": "Least Concern",
+      "population": "1104 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 49001,
+      "name": "Common Lancehead",
+      "scientificName": "Bothrops atrox",
+      "position": {
+        "lat": -9.6402,
+        "lng": -60.1587
+      },
+      "imageUrl": "https://static.inaturalist.org/photos/28285205/medium.jpeg",
+      "status": "Least Concern",
+      "population": "1051 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    },
+    {
+      "id": 34570,
+      "name": "Bridled Forest Gecko",
+      "scientificName": "Gonatodes humeralis",
+      "position": {
+        "lat": -9.3195,
+        "lng": -66.3213
+      },
+      "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/114621968/medium.jpeg",
+      "status": "Least Concern",
+      "population": "1023 observations on iNaturalist",
+      "description": "A species found in the rainforest.",
+      "diet": "See iNaturalist for details",
+      "habitat": "Rainforest",
+      "threats": "Habitat loss, climate change"
+    }
+  ]
+}
