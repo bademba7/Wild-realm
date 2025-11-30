@@ -1,12 +1,92 @@
-# React + Vite
+# 🌍 Wild Realms — Immersive Ecosystem Experience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Wild Realms is an interactive 3D educational project built with **React**, **Three.js**, and **React-Three-Fiber**.  
+The goal is to let users explore different biomes, learn about species, play mini-games, and understand environmental challenges.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+### 🐠 Immersive Biomes
+- Ocean Biome (3D marine life, movement, underwater ambience)
+- Temperate Forest Biome (animals, trees, grass, fog, realistic ambience)
+- Fully dynamic spawning + animations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🎮 Mini-Game
+- Players search for specific species
+- When clicked, animals show:
+  - Fun facts
+  - Conservation status
+  - A mini-quiz for learning
+- Completion time + score tracking
+
+### ⚠️ Challenge Mode
+- Scenario-based environmental threats
+- Users choose responses
+- Pollution / impact level changes
+- Dynamic "win" or "ecosystem stressed" result
+
+---
+
+## 🛠️ Tech Stack
+
+- **React + Vite**
+- **React Three Fiber** (3D rendering)
+- **Three.js**
+- **Drei** (GLTF loader, environment presets, orbit controls)
+- **TailwindCSS**
+- **GLB Models** for animals, plants, and world assets
+- **Custom movement physics** for ground animals and flying species
+- **Audio ambience** per biome
+
+---
+
+## 📚 How It Works (Step-by-Step)
+
+### 1️⃣ **Biome Selection**
+User chooses a biome (Ocean, Forest).
+
+### 2️⃣ **Immersive 3D View**
+Canvas loads:
+- Background color
+- Fog
+- Trees / coral / rocks
+- Grass or water ambience
+- Animal models spawn with natural movement
+
+### 3️⃣ **Interactions**
+Clicking on an animal opens:
+- Info card (species name, status, facts)
+- Mini-quiz question
+
+### 4️⃣ **Mini-Game**
+- Start button activates target tracking
+- Find all required animals
+- Get a completion message + points
+
+### 5️⃣ **Challenge Mode**
+- Player is given a real-world environmental problem
+- Must pick the correct solution
+- Pollution level goes up/down
+- Win or fail screen appears
+
+---
+
+## 🎥 Demo Video
+
+_A full project walkthrough video is included in this repository._
+
+(Your embedded video link will go here after uploading.)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/bademba7/Wild-realm.git
+cd Wild-realm
+npm install
+npm run dev
+🧑‍💻 Contributors
+	•	Abdoulaye Bademba Diallo
+	•	CS 440 Group 4 – Fall 2025
